@@ -461,7 +461,7 @@ web.html
     </section>
 
     <footer>
-        &copy; TVK RESTAURANT.... All rights reserved. | Website Designed by S.BHUVANESH(25015685)
+        &copy; FAMILY RESTAURANT.... All rights reserved. | Website Designed by M.SEKAR(25017565)
     </footer>
 
 </body>
